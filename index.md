@@ -5,7 +5,7 @@ title: "DSC 180A - Methodology Assignment 4"
 
 **Name:** Shruti Yamala  
 **Email:** syamala@ucsd.edu  
-**Section:** B03 Digital Twins in Healthcare
+**Section:** B03 Digital Twins in Healthcare  
 **Mentor:** Tauhidur Rahman 
 
 ---
